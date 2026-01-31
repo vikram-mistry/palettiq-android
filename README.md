@@ -1,6 +1,6 @@
 # Palettiq 🎨
 
-**Palettiq** is a modern, AI-powered wallpaper generator app for Android. Generate stunning, unique wallpapers on-device with beautiful color palettes and patterns — no internet required.
+**Palettiq** is a modern, Algo-powered wallpaper generator app for Android. Generate stunning, unique wallpapers on-device with beautiful color palettes and patterns — no internet required.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -153,7 +153,7 @@ This project is proprietary software. All rights reserved.
 
 ## 👨‍💻 Author
 
-Developed with ❤️ using Kotlin and Jetpack Compose.
+Vikram Mistry - Developed with ❤️ using Kotlin and Jetpack Compose.
 
 ---
 
