@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"/>
+    
+    <!-- Grid/wallpaper icon -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M34,34h16v16H34V34zM58,34h16v16H58V34zM34,58h16v16H34V58zM58,58h16v16H58V58z"/>
+    
+    <!-- Sparkle/magic element -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M54,28l2,6l6,2l-6,2l-2,6l-2,-6l-6,-2l6,-2z"/>
+</vector>
